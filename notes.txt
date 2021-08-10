@@ -1,1 +1,2 @@
-Learning git. Second commit.
+Learning git. Second commit. Adding more text, third commit.
+git commit -am "Combined add and commit"
